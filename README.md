@@ -1,18 +1,114 @@
-# 💫 About Me:
-# Hi there! 👋 I'm Sakshi Dubey<br><br>I'm a Final Year B.Tech Computer Science student with a strong interest in Java Backend Development and Software Engineering. I enjoy building real-world applications, solving coding problems, and continuously improving my technical skills.<br><br>🌱 Currently learning **Java, Spring Boot, Microservices, and Data Structures & Algorithms**<br><br>💻 Interested in **Backend Development, Full-Stack Development, and Problem Solving**<br><br>🚀 Passionate about creating scalable, user-friendly applications and exploring modern technologies.<br><br>## 💼 What I'm Working On<br><br>* Building Java & Spring Boot projects<br>* Strengthening DSA for coding interviews<br>* Developing full-stack applications<br>* Contributing to personal projects and improving my GitHub portfolio<br><br>## 🎯 Career Goal<br><br>To start my career as a Software Engineer where I can apply my technical knowledge, solve challenging problems, and continuously grow as a developer.<br><br>📫 **Email:** [sakshidubey20279@gmail.com](mailto:sakshidubey20279@gmail.com)<br><br>⚡ **Fun Fact:** I believe the best way to learn programming is by building projects and solving real-world problems.<br>
+<h1 align="center">Hi 👋, I'm Sakshi Dubey</h1>
 
+<h3 align="center">
+Final Year B.Tech Computer Science Student | Java Developer | Spring Boot Learner
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshi-dubey-b0a42624b) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=itssakshi2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=itssakshi2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=itssakshi2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Passionate about Backend Development, Problem Solving, and building real-world applications.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=itssakshi2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+
+- 🎓 Final Year B.Tech Computer Science Student
+- 💻 Passionate about Java Backend Development
+- 🌱 Currently learning **Spring Boot, Microservices, and Data Structures & Algorithms**
+- 🚀 Building real-world projects and improving my coding skills every day
+- 🎯 Aspiring Software Engineer
+- 📫 Reach me at **sakshidubey20279@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sakshi-dubey-b0a42624b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sakshidubey20279@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/itssakshi2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itssakshi2005&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssakshi2005&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=itssakshi2005&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=itssakshi2005&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎬 Movie Recommender System
+A Content-Based Movie Recommendation System built using **Python, Streamlit, Scikit-Learn, Pickle, and Cosine Similarity**.
+
+### 🌐 Personal Portfolio Website
+A fully responsive portfolio website showcasing my skills, projects, and resume.
+
+### 🧠 Brain Tumor Detection
+Deep Learning project using **TensorFlow, Keras, and VGG16** for MRI image classification.
+
+### ☕ Java DSA
+A collection of Java programs and Data Structures & Algorithms practice problems.
+
+---
+
+## 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=itssakshi2005&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+<h3 align="center">
+⭐ Thank you for visiting my profile! ⭐
+</h3>
