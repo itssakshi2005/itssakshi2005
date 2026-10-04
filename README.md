@@ -8,7 +8,7 @@ Final Year B.Tech Computer Science Student | Java Developer | Spring Boot Learne
 Passionate about Backend Development, Problem Solving, and building real-world applications.
 </p>
 
----
+
 
 ## 👩‍💻 About Me
 
@@ -19,7 +19,7 @@ Passionate about Backend Development, Problem Solving, and building real-world a
 - 🎯 Aspiring Software Engineer
 - 📫 Reach me at **sakshidubey20279@gmail.com**
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -64,7 +64,7 @@ Passionate about Backend Development, Problem Solving, and building real-world a
 <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itssakshi2005&layout=compact&theme=tokyonight"/>
 
 </p>
----
+
 
 # 🔥 GitHub Streak
 
@@ -74,7 +74,7 @@ Passionate about Backend Development, Problem Solving, and building real-world a
 
 </p>
 
----
+
 
 
 
@@ -93,13 +93,13 @@ Deep Learning project using **TensorFlow, Keras, and VGG16** for MRI image class
 ### ☕ Java DSA
 A collection of Java programs and Data Structures & Algorithms practice problems.
 
----
+
 
 ## 📈 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=itssakshi2005&label=Profile%20Views&color=0e75b6&style=flat)
 
----
+
 
 <h3 align="center">
 ⭐ Thank you for visiting my profile! ⭐
